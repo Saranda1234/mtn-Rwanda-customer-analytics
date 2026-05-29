@@ -6,7 +6,10 @@ analyzing behavioral and service data for **7,043 MTN Rwanda subscribers**
 to identify churn patterns across service types, contract types, and customer segments.
 
 ## Dashboard Preview
-![MTN Rwanda Dashboard](screenshots/dashboard.png)
+<img width="587" height="377" alt="image" src="https://github.com/user-attachments/assets/418942bf-2c80-437b-83a7-663ba8c76683" />
+<img width="595" height="390" alt="image" src="https://github.com/user-attachments/assets/4ef880bf-0972-4a92-a14e-9ffbf1259468" />
+
+
 
 ## Key Metrics
 | Metric | Value |
@@ -29,7 +32,7 @@ High-level snapshot showing 7,043 total subscribers with an overall churn rate o
 Pie chart showing the proportion of churned (Yes) vs retained (No) customers.
 
 ### 3. Senior vs Non-Senior Customers
-![Senior vs Non-Senior](screenshots/senior_vs_nonsenior.png)<img width="293" height="161" alt="image" src="https://github.com/user-attachments/assets/db2729ac-791e-448b-9f52-c094b5dd7630" />
+<img width="293" height="161" alt="image" src="https://github.com/user-attachments/assets/db2729ac-791e-448b-9f52-c094b5dd7630" />
 
 Segment breakdown — ~1,140 senior customers vs ~5,900 non-senior customers.
 
