@@ -27,7 +27,8 @@ High-level snapshot showing 7,043 total subscribers with an overall churn rate o
 Pie chart showing the proportion of churned (Yes) vs retained (No) customers.
 
 ### 3. Senior vs Non-Senior Customers
-![Senior vs Non-Senior](screenshots/senior_vs_nonsenior.png)
+![Senior vs Non-Senior](screenshots/senior_vs_nonsenior.png)<img width="293" height="161" alt="image" src="https://github.com/user-attachments/assets/db2729ac-791e-448b-9f52-c094b5dd7630" />
+
 Segment breakdown — ~1,140 senior customers vs ~5,900 non-senior customers.
 
 ### 4. Churn by Internet Service
