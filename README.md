@@ -19,11 +19,13 @@ to identify churn patterns across service types, contract types, and customer se
 ## Charts & Analysis
 
 ### 1. Total Customers & Churn Rate KPIs
-![KPIs](screenshots/kpis.png)
+<img width="302" height="167" alt="image" src="https://github.com/user-attachments/assets/bf1eedf7-649b-46a2-9f45-1d434f7ab09a" />
+
 High-level snapshot showing 7,043 total subscribers with an overall churn rate of 26.5%.
 
 ### 2. Churned vs Active Customers
-![Churned vs Active](screenshots/churned_vs_active.png)
+<img width="297" height="161" alt="image" src="https://github.com/user-attachments/assets/100572de-314d-4fdb-8196-5074285a8b81" />
+
 Pie chart showing the proportion of churned (Yes) vs retained (No) customers.
 
 ### 3. Senior vs Non-Senior Customers
@@ -32,17 +34,20 @@ Pie chart showing the proportion of churned (Yes) vs retained (No) customers.
 Segment breakdown — ~1,140 senior customers vs ~5,900 non-senior customers.
 
 ### 4. Churn by Internet Service
-![Churn by Internet Service](screenshots/churn_by_internet.png)
+<img width="457" height="311" alt="image" src="https://github.com/user-attachments/assets/a7d26728-72b8-4e4f-93a3-fc2d3d11ed53" />
+
 Bar chart comparing churn across DSL, Fiber Optic, and No internet service subscribers.
 Fiber optic users show the highest churn volume.
 
 ### 5. Churn by Contract Type
-![Churn by Contract Type](screenshots/churn_by_contract.png)
+<img width="448" height="307" alt="image" src="https://github.com/user-attachments/assets/bcf5d32a-09f9-4fac-a396-1728aadfacbd" />
+
 Bar chart showing churn across Month-to-month, One year, and Two year contracts.
 Month-to-month contracts have significantly higher churn.
 
 ### 6. Revenue by Payment Method
-![Revenue by Payment Method](screenshots/revenue_by_payment.png)
+<img width="455" height="310" alt="image" src="https://github.com/user-attachments/assets/b9dad29e-0cfb-45a2-9826-92d4d151fb18" />
+
 Donut chart showing revenue distribution across different payment methods.
 
 ### 7. Customers by Tenure
