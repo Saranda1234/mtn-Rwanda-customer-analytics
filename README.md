@@ -46,7 +46,8 @@ Month-to-month contracts have significantly higher churn.
 Donut chart showing revenue distribution across different payment methods.
 
 ### 7. Customers by Tenure
-![Customers by Tenure](screenshots/customers_by_tenure.png)
+<img width="451" height="305" alt="image" src="https://github.com/user-attachments/assets/618b26d3-cff0-4e8e-ba33-ca4e807866d2" />
+
 Line chart tracking customer count across tenure duration (0–70 months).
 Shows a spike in new customers and a recovery at long tenure — indicating loyalty patterns.
 
